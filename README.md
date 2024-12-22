@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 📡 Currently exploring radar-based platform testing and fascinated by embedded systems, AI, and algorithms.
 - 🌟 Thriving on innovation, collaboration, and solving challenging problems.
 - 🔧 My Expertise
-                  Programming: Python, C++, MATLAB
-                  Specialization: Radar technologies, platform testing, and data analysis
-                  Interests: Algorithms, system design, and tech-driven solutions
+- Programming: Python, C++, MATLAB
+- Specialization: Radar technologies, platform testing, and data analysis
+- Interests: Algorithms, system design, and tech-driven solutions
 - 🎯 Goals
 - 📖 Continuously learning and sharing knowledge through hands-on projects.
 - 🌍 Contributing to impactful open-source projects.
